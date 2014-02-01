@@ -14,6 +14,8 @@ __END__
 
 =encoding utf8
 
+=for stopwords captchas
+
 =head1 NAME
 
 App::ZofCMS::PluginBundle::Naughty - a collection of ZofCMS plugins that are troublesome to install
@@ -37,7 +39,7 @@ These are the plugins available in this bundle:
 
 =item * L<App::ZofCMS::Plugin::Search::Indexer> plugin that incorporates L<Search::Indexer> module's functionality
 
-=cut
+=back
 
 =head1 REPOSITORY
 
